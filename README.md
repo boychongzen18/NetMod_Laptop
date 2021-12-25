@@ -4,7 +4,7 @@
 
 
 # Penampakan Applikasi NetMod di Laptop
-![be](https://raw.githubusercontent.com/boychongzen18/NetMod_Laptop/main/Framework 4.5.2.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/NetMod_Laptop/main/Framework%204.5.2.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/NetMod_Laptop/main/netmod.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/NetMod_Laptop/main/Proxifier.jpg)
 
